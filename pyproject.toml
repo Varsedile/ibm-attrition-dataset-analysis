@@ -1,0 +1,14 @@
+[project]
+name = "hr-analytics"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "pandas>=3.0.5",
+    "psycopg2-binary>=2.9.12",
+    "sqlalchemy>=2.0.51",
+]
+
+[tool.uv]
+link-mode = "copy"
