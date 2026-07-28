@@ -10,3 +10,4 @@ wheels/
 .venv
 
 postgres/
+.ipynb_checkpoints/
