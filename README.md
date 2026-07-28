@@ -3,9 +3,8 @@
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-database-336791)
 ![Power BI](https://img.shields.io/badge/Power%20BI-dashboard-F2C811)
-![License](https://img.shields.io/badge/license-MIT-green)
 
-A full data pipeline built around the [IBM HR Analytics Employee Attrition Dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset): raw data ingested and cleaned in PostgreSQL, audited in Excel, visualized in Power BI, and cross-validated with a set of matching Python visualizations.
+A full data pipeline built around the [IBM HR Analytics Employee Attrition Dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset), raw data ingested and cleaned in PostgreSQL, audited in Excel, visualized in Power BI, and cross-validated with a set of matching Python visualizations.
 
 **Blog writeup:** [IBM HR Attrition: The Long Way Around](https://medium.com/@vanshkhetarpal/ibm-employees-attrition-relationship-8da664de8ae6)
 
